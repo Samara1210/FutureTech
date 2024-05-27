@@ -19,5 +19,7 @@ Implement optimization techniques such as Linear Programming, Gradient Descent, 
 Apply computational mathematics techniques to solve practical problems and conduct numerical experiments.
 
 
+#Course materials:
+https://drive.google.com/drive/folders/1cp8auODt0VlmF3PMarM2CTZla4gmn9Mn
 
-Introduction to Computational Mathematics:
+
